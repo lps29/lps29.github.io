@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "MightyBrick48",
+          "name": "LowPowerSolutions SAMD Boards",
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
