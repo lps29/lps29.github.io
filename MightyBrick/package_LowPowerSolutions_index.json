@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "Boards from Low Power Solutions",
+      "name": "MightyBrick",
       "maintainer": "LowPowerSolutions",
       "websiteURL": "https://www.tindie.com/stores/lps/",
       "email": "lowpowersolutions@gmail.com",
