@@ -17,7 +17,7 @@
           "help": { "online": "lowpowersolutions@gmail.com" },
           "url": "https://lps29.github.io/MightyBrick/MightyBrick_1.0.0.zip",
           "archiveFileName": "MightyBrick_1.0.0.zip",
-          "checksum": "SHA-256:0146ef734a08fe9c4edb55b7b5cc5dc55ebe6d278a5f2e3f9efbb9ba6e43d50",
+          "checksum": "SHA-256:10146ef734a08fe9c4edb55b7b5cc5dc55ebe6d278a5f2e3f9efbb9ba6e43d50",
           "size": "1574174",
           "boards": [
             {"name": "LoRaWAN_MightyBrick48"},
