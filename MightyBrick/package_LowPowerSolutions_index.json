@@ -18,7 +18,7 @@
           "url": "https://lps29.github.io/MightyBrick/MightyBrick_1.0.0.zip",
           "archiveFileName": "MightyBrick_1.0.0.zip",
           "checksum": "SHA-256:d6ceb5f5e66a8440907cc862252bb47e93f993a027d74196785dfe69f2901f1a",
-          "size": "1550941",
+          "size": "1550968",
           "boards": [
             {"name": "LoRaWAN_MightyBrick48"},
             {"name": "LoRaWAN_MightyBrick32"}
